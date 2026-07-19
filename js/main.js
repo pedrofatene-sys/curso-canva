@@ -97,6 +97,8 @@ const channels = [
     { id: 'Rma8OQzjpAY', name: 'modificar id e name' },
     { id: 'Rma8OQzjpAY', name: 'modificar id e name' },
     { id: 'Rma8OQzjpAY', name: 'modificar id e name' },
+    { id: 'Rma8OQzjpAY', name: 'modificar id e name' },
+    { id: 'Rma8OQzjpAY', name: 'modificar id e name' },
 ];
 
 // Estado atual
