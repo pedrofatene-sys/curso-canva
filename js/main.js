@@ -14,13 +14,13 @@ const channels = [
     { id: '0Cz-atZhrzY', name: 'Como usar gráficos no Canva' },
     { id: 'mpVGv59GbGs', name: 'Como usar fotos "pro" no Canva - imagens gratuitas profissionais' },
     { id: 'qGA-MaTlSL8', name: 'Como usar fundos profissionais no Canva sem marca d agua' },
-    { id: 'QNf8UiSFHZ4', name: 'DIREITOS POLITICOS - Parte 2' },
-    { id: '0Lzwn9h8GvY', name: 'Organização do Estado - Parte 1' },
-    { id: 'vXEpO6zkG4g', name: 'Organização do Estado - Parte 2' },
-    { id: 'n3hhXNGONUM', name: 'Organização do Estado - Parte 3' },
-    { id: 'NqKgXA4C6P8', name: 'Organização do Estado - Parte 4' },
-    { id: '8fiHRgaQqhI', name: 'Organização do Estado - Parte 5' },
-    { id: 'KF4Qp-deTHU', name: 'Organização do Estado - Parte 6' }
+    { id: 'QWKivdH7-DY', name: 'Como usar vídeos sem marca D água no Canva' },
+    { id: 'OH8mmZewI-E', name: 'Botões sumiram no Canva, como resolver' },
+    { id: 'FhxgiWrYGjo', name: 'Como usar textos no Canva' },
+    { id: 'ugb3C6hejv8', name: 'Como importar arquivos para o Canva (Illustrator, PDF, TIFF)' },
+    { id: 'eEZU_XIUaM0', name: 'Como usar Régua e Linhas Guias no Canva' },
+    { id: '1gSqnDy4qsc', name: 'Como usar Guias de colunas e Grade no Canva ' },
+    { id: 'Rma8OQzjpAY', name: 'Como agrupar elementos no Canva' }
 ];
 
 // Estado atual
