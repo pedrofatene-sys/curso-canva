@@ -1,9 +1,9 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
     { id: 'zFeTVoix4-U', name: 'Curso de Canva grátis e completo do zero ao avançado' },
-    { id: 'AXFKaHqEXUc', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
-    { id: 't93FyKwCtjo', name: 'Princípios fundamentais: Princípios IMPLÍCITOS e EXPLÍCITOS' },
-    { id: 'q_ZMMxTnrOE', name: 'Direitos e Garantias Fundamentais' },
+    { id: 'L1XHqZf_AAU', name: 'Apresentação' },
+    { id: 'P3tJ3ybF_-A', name: 'Como fazer Posts com figuras animadas no Canva Curso Grátis de Canva' },
+    { id: '6sSeIJ-YYJU', name: 'Aprenda a criar documento no Canva do jeito certo' },
     { id: 'YcF8MblD7xw', name: 'Garantias Fundamentais - Parte 2' },
     { id: 'xaja8MkR-9s', name: 'Garantias Fundamentais - Parte 3' },
     { id: '6u20d2lRDp8', name: 'Direitos Individuais e Coletivos - Parte 1' },
